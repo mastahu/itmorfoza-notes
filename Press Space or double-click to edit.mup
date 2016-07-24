@@ -1,5 +1,60 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "ITmofroza",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Java",
+      "id": 3
+    },
+    "2": {
+      "title": "Git",
+      "id": 5
+    },
+    "3": {
+      "title": "Persistence",
+      "id": 7
+    },
+    "4": {
+      "title": "Testing",
+      "id": 11
+    },
+    "5": {
+      "title": "Best Practices",
+      "id": 13
+    },
+    "6": {
+      "title": "Algorithms and Data Structures",
+      "id": 15
+    },
+    "7": {
+      "title": "Other",
+      "id": 17
+    },
+    "-1": {
+      "title": "WebApps",
+      "id": 4
+    },
+    "-2": {
+      "title": "Spring",
+      "id": 6
+    },
+    "-3": {
+      "title": "Maven",
+      "id": 8,
+      "ideas": {}
+    },
+    "-4": {
+      "title": "Agile",
+      "id": 12
+    },
+    "-5": {
+      "title": "Architecture",
+      "id": 14
+    },
+    "-6": {
+      "title": "Front End",
+      "id": 16
+    }
+  }
 }
